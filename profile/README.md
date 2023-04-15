@@ -13,11 +13,8 @@
 
 * Released in 2020, DroidCam-OBS integrates directly into OBS Studio as a plugin.
 * The new app was recreated from scratch, with focus on efficiency and advanced video capture & streaming.
-* Android: DSLR -like features including exposure, white balance, and focus controls with Camera2 API.
-* iOS: Manual white balance, exposure controls. Continuous or tap-to-focus options.
-* Remote Controls available as a Browser Dock.
-* Visit the plugin page at [obsproject.com](https://obsproject.com/forum/resources/droidcam-obs-camera.1308/)
-* **NEW:** A PC Client is also available for DroidCam-OBS: [beta.droidcam.app](https://beta.droidcam.app)
+* Visit the DroidCam plugin page at [obsproject.com](https://obsproject.com/forum/resources/droidcam-obs-camera.1308/)
+* **NEW:** A PC Client is now available for DroidCam-OBS: [Webcam](https://www.dev47apps.com/obs/webcam.html)
 
 ##
 
