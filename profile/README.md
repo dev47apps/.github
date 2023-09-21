@@ -1,22 +1,20 @@
 ## 👋 , Apps by Dev47
 
 
-<img align="left" width="32" height="32" src="https://files.dev47apps.net/img/dobs-icon.png"> **[DroidCam](https://beta.droidcam.app/)** (New) - Turns your phone into an advanced PC webcam.
+<img align="left" width="32" height="32" src="https://files.dev47apps.net/img/dobs-icon.png"> **[DroidCam](https://beta.droidcam.app/)** (New) - PC Webcam and OBS Camera.
 
-* Released in 2020 as "DroidCam OBS", with OBS Studio integration as a plugin.
-* The new app was recreated from scratch, with focus on efficiency and advanced video capture & streaming.
-* OBS plugin avaiable at [obsproject.com](https://obsproject.com/forum/resources/droidcam-obs-camera.1308/)
-* New PC Client (based on OBS): [droidcam.app](https://beta.droidcam.app)
-* Your phone has an amazing camera, and its now a powerful feature-rich webcam!
+* Released in 2020 as "DroidCam OBS", with direct OBS Studio integration via plugin.
+* This new app was recreated from scratch, with focus on efficiency and advanced video capture & streaming.
+* DroidCam OBS plugin available at [obsproject.com](https://obsproject.com/forum/resources/droidcam-obs-camera.1308/)
+* New PC Client (based on OBS) at: [droidcam.app](https://droidcam.app)
 
 ##
 
 <img align="left" width="32" height="32" src="https://files.dev47apps.net/img/app_icon.png"> **[DroidCam](https://www.dev47apps.com/)** (Classic)
 
-* One of the original phone-as-webcam apps, released in 2010.
+* One of the original phone-as-webcam apps, released in 2010!
 * Chat using “DroidCam Webcam” on your computer, including Sound and Picture.
-* Connect over WiFi or USB cable.
-* Simple, safe, efficient, and trusted by millions of people worldwide.
+* Simple, safe, efficient, and used by millions of people worldwide.
 
 ##
 
