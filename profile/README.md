@@ -5,7 +5,7 @@
 
 * Released in 2020 as "DroidCam OBS", with direct OBS Studio integration via plugin.
 * The new app was recreated from scratch, with focus on advanced video capture & streaming directed at content creators.
-* The app has since evloved to become a more general phone-as-webcam app, with a new PC Client.
+* The app has since evolved to become a more general phone-as-webcam app, with a new PC Client.
 * The DroidCam OBS plugin is available at [obsproject.com](https://obsproject.com/forum/resources/droidcam-obs-camera.1308/)
 * The new PC Client (based on OBS) at: [droidcam.app](https://droidcam.app)
 
